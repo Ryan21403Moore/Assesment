@@ -15,7 +15,8 @@ h2{
 
 img{
   width: 100%;
-
+  border-radius: 5%;
+  height: 600px;
 }
 .container
 {
@@ -24,4 +25,20 @@ img{
    gap: 40px;
    margin: 40px;
 
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.intro {
+    background-image: linear-gradient(to right, rgb(94, 255, 0) , rgb(38, 0, 255));
+  }
+
+.header{
+ padding: 50px;
+ text-align: center;
+ background: black;
+ 
 }
