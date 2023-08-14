@@ -29,11 +29,11 @@ img{
 
 p{
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 10px;
 }
 
 .intro {
-    background-image: linear-gradient(to right, rgb(94, 255, 0) , rgb(38, 0, 255));
+    background-image: linear-gradient(to right, rgb(34, 36, 34) , rgb(42, 42, 170));
   }
 
 .header{
@@ -41,4 +41,11 @@ p{
  text-align: center;
  background: black;
  
+}
+
+.header-image
+{
+    width: 70%;
+    margin-left: 290px;
+    margin-right: 100px;
 }
