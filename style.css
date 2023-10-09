@@ -1,6 +1,7 @@
 
 body{
     background-color: rgb(55, 55, 55);
+    background-image: linear-gradient(to right, rgb(34, 36, 34) , rgb(42, 42, 170));
 }
 
 h1{
@@ -22,8 +23,8 @@ img{
 {
    display: grid;
    grid-template-columns: 1fr 1fr;
-   gap: 40px;
-   margin: 40px;
+   gap: 50px;
+   margin: 100px;
 
 }
 
@@ -32,9 +33,6 @@ p{
     font-size: 25px;
 }
 
-.intro {
-    background-image: linear-gradient(to right, rgb(34, 36, 34) , rgb(42, 42, 170));
-  }
 
 .header{
  padding: 50px;
